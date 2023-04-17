@@ -1,0 +1,7 @@
+@import "ui-library/main.css";
+
+@layer card {
+  .card {
+    text-align: right;
+  }
+}
