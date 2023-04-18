@@ -1,4 +1,2 @@
-@layer card, utils;
-
-@import "components/card.css" layer(card);
-@import "utils/text-align.css" layer(utils);
+@import "components/card.css";
+@import "utils/text-align.css";

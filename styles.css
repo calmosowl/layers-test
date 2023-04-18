@@ -1,4 +1,7 @@
-@import "ui-library/main.css";
+@layer card, utils;
+
+@import "ui-library/components/card.css" layer(card);
+@import "ui-library/utils/text-align.css" layer(utils);
 
 @layer card {
   .card {
